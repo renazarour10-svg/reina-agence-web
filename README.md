@@ -3,7 +3,7 @@ Site vitrine réalisé dans le cadre du module Git & GitHub,
 Bachelor Développement Web — 1re Année.
 
 ## Auteur
-Ton Nom — 1re Année Bachelor Dev. Web
+Zarour Rena — 1re Année Bachelor Dev. W
 
 ## Technologies
 - HTML5
@@ -17,4 +17,4 @@ Ton Nom — 1re Année Bachelor Dev. Web
 - Login
 
 ## Site en ligne
-(Ajouter le lien GitHub Pages après publication)
+https://renazarour10-svg.github.io/reina-agence-web/
