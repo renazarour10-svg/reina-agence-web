@@ -1,13 +1,5 @@
-# Cinverse — Site Vitrine
-Site vitrine réalisé dans le cadre du module Git & GitHub,
-Bachelor Développement Web — 1re Année.
-
-## Auteur
-Ton Nom — 1re Année Bachelor Dev. Web
-
-## Technologies
-- HTML5
-- CSS3
+# Cinverse
+Site vitrine d'une entreprise fictive Cinverse — réalisé en HTML/CSS pur.
 
 ## Pages
 - Accueil
@@ -16,5 +8,6 @@ Ton Nom — 1re Année Bachelor Dev. Web
 - Contact
 - Login
 
-## Site en ligne
-(Ajouter le lien GitHub Pages après publication)
+## Technologies
+- HTML5
+- CSS3
